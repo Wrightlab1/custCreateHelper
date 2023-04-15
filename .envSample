@@ -1,0 +1,6 @@
+CSVFILE="./emails.csv"
+DOMAIN="@domain.com"
+CLIENTID=""
+CLIENTSECRET=""
+ACCOUNTID=""
+LOGGING_LEVEL="DEBUG"
