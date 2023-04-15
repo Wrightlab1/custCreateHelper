@@ -1,5 +1,5 @@
 # CustCreate user Migration
-> **WARNING!**
+> **Warning!**
 > Running this script will delete users on your account.
 
 ## Installation
