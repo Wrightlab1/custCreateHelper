@@ -20,7 +20,10 @@ git clone https://github.com/Wrightlab1/custCreateHelper.git
 
  ## Authentication
  This script uses Zoom [Server to Server Authentication](https://developers.zoom.us/docs/internal-apps/s2s-oauth/)
- 
+ A new Server to Server App should be created to run this script.
+ ### scopes
+ Be sure to add the necessary scopes
+ - ```user.write.admin```
 
 ## Usage
 
