@@ -4,7 +4,11 @@
 
 > ==Running this script will **delete** users on your account.==
 
-  
+This script is intended to help ISV partners migrate non custCreate users to the custCreate user type. IT does this in the following way.
+- Reads a list of email addresses from a csv file
+- A new email address will be created by base64 encoding the original email address and a configurable domain will be added
+- A new custCreate user will be created with the new email address
+- The original user is deleted and their meetings, webinars, and recordings are transferred to the new user
 
 ## Installation
 
