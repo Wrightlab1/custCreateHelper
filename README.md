@@ -1,6 +1,6 @@
 # CustCreate user Migration
 > **Warning!**
-> Running this script will delete users on your account.
+> ==Running this script will delete users on your account.==
 
 ## Installation
 ```
@@ -8,9 +8,9 @@ got clone https://github.com/Wrightlab1/custCreateHelper.git
 ```
 
 ## Usage
-Create a ```.env``` Use the sample env as a guide
-create a csv file containing email addresses you would like migrated
-Run the script
+- Create a ```.env``` Use the sample env as a guide
+- Create a csv file containing the email addresses you would like migrated
+- Run the script
 
 ## Logging
 A logfile is generate for you in ``` ./logs/log.log```
