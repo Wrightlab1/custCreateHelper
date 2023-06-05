@@ -1,5 +1,7 @@
 import json
 
+# function to print json data in a more readable way
+
 
 def printJSON(data):
     try:

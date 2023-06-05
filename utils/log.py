@@ -2,6 +2,9 @@ import logging
 from dotenv import load_dotenv
 import os
 
+# logging facility for python
+# https://docs.python.org/3/library/logging.html
+
 load_dotenv()
 
 # FUNCTION TO CREATE THE LOGGING DIREECTORY IF IT DOES NOT EXIST
